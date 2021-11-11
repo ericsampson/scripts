@@ -1,11 +1,16 @@
-
-cinstm postman
-cinstm 7zip
-cinstm notepadplusplus
-cinstm winmerge
-cinstm compareit
-cinstm sysinternals
-cinstm lastpass
-cinstm googlechrome
-cinstm firefox
-cinstm sharpkeys
+choco feature enable -n allowGlobalConfirmation
+choco install notepadplusplus
+choco install postman
+choco install 7zip
+choco install winmerge
+choco install compareit
+choco install sysinternals
+choco install ssms
+choco install vscode
+choco install sourcetree
+choco install lastpass
+choco install googlechrome
+choco install firefox
+choco install sharpkeys
+choco install wsl
+choco install wsl-ubuntu-2004
