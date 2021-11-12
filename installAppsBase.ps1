@@ -15,3 +15,4 @@ choco install sharpkeys
 choco install wsl
 choco install wsl-ubuntu-2004
 choco install sql-server-express
+choco install redis-desktop-manager
